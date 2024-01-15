@@ -1,0 +1,58 @@
+.card1{
+    background-color: white;
+    text-align: center;
+    height: 100vh;
+}
+.image{
+    width:150px;
+    height:60px;
+}
+.section1{
+    background-color: whitesmoke;
+}
+#special{
+    margin-left: auto;
+
+}
+.card2{
+    background-image:url("https://res.cloudinary.com/dulc7ullq/image/upload/v1679750782/fskqsdmhcmtrnadgcmunaflw1nh5tavkkv3n4kztdzp8kbz3mdyso1yajjfq2c1o-_sqlvab.jpg");
+    height: 87vh;
+    background-size:cover;
+}
+.h11{
+    color:white;
+    font-size:50px;
+    font-style: bold;
+    margin-left:120px;
+    margin-top: 70px;
+}
+.h22{
+        color:white;
+        font-size:50px;
+        font-style: bold;
+        margin-left:220px;
+}
+.c{
+    color:red;
+}
+.b1{
+    background-color: transparent;
+    color:white;
+    margin-left:150px;
+    margin-top:20px;
+    font-size: medium;
+    border-width: 3px;
+    border-color: aliceblue;
+}
+.b2{
+    background-color: transparent;
+    color:white;
+    margin-left:180px;
+    font-size: medium;
+    border-width: 3px;
+    border-color: aliceblue;
+}
+#sec{
+    background-color: whitesmoke;
+    height: 70px;
+}
